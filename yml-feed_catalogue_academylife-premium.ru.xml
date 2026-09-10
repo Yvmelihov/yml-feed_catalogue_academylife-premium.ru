@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-10 18:47:59">
+<shop>
+<name>Академия Долголетия</name>
+<company>Академия Долголетия</company>
+<url>https://academylife-premium.ru</url>
+<collections>
+<collection id="c1">
+<url>https://academylife-premium.ru</url>
+<name>Частный пансионат 5 звёзд в Москве. Персональный подход</name>
+<description>Академия Долголетия: ресторанное меню, забота и когнитивный досуг. От 4 500 ₽/сут</description>
+<picture>https://i.ibb.co/bjb81VK2/01.jpg</picture>
+</collection>
+<collection id="c2">
+<url>https://academylife-premium.ru/about.html</url>
+<name>Премиум-пансионат для пожилых. Метро «Речной вокзал»</name>
+<description>Академия Долголетия: эрготерапевт, когнитивные тренинги и забота. От 4 500 ₽/сут</description>
+<picture>https://i.ibb.co/F40fr8h9/02.jpg</picture>
+</collection>
+<collection id="c3">
+<url>https://academylife-premium.ru/#medical</url>
+<name>Пансионат высшей категории: акцент на долголетие</name>
+<description>Академия Долголетия. Персональная забота, живая музыка, кафе. От 4 500 ₽/сут</description>
+<picture>https://i.ibb.co/yFtyr6MD/03.jpg</picture>
+</collection>
+<collection id="c4">
+<url>https://academylife-premium.ru/#location</url>
+<name>Частный пансионат для пожилых. Бутиковый формат в Москве</name>
+<description>Академия Долголетия - просторные номера, индивидуальная забота 24/7. От 4500 ₽</description>
+<picture>https://i.ibb.co/rRp682tq/04.png</picture>
+</collection>
+<collection id="c5">
+<url>https://academylife-premium.ru/#tariffs</url>
+<name>Частный пансионат премиум-уровня. Индивидуальный подход</name>
+<description>Академия Долголетия: заботливая и активная команда, сервисы 5 звёзд. От 4 500 ₽</description>
+<picture>https://i.ibb.co/HfvB1rfN/05.jpg</picture>
+</collection>
+<collection id="c6">
+<url>https://academylife-premium.ru/about.html#1</url>
+<name>Пансионат премиум-класса на Флотской. Номера люкс</name>
+<description>Академия Долголетия - просторные номера, индивидуальная забота 24/7. От 4500 ₽</description>
+<picture>https://i.ibb.co/DfwqWFT9/06.png</picture>
+</collection>
+<collection id="c7">
+<url>https://academylife-premium.ru/about.html#test-drive</url>
+<name>Частный пансионат. Продление активного долголетия</name>
+<description>Академия Долголетия: заботливая и активная команда, сервисы 5 звёзд. От 4 500 ₽</description>
+<picture>https://i.ibb.co/q3qvV9Rd/07.jpg</picture>
+</collection>
+</collections>
+</shop>
+</yml_catalog>
